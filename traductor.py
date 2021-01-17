@@ -232,8 +232,6 @@ elif letra2 =="u":
 elif letra2 =="v":
         v = "b5"
         print (v)
-
-print (w)
 elif letra2 =="x":
         x = "c3"
         print (x)
